@@ -1,5 +1,5 @@
 # AmazeClone
- Simple Amaze Clone (Minecraft Theme, First 10 Levels)
+ Amaze Clone (Minecraft Theme, First 10 Levels)
 
  I have done this project in two weeks.
  

@@ -1,0 +1,20 @@
+public enum EventType
+{
+    LevelLoadingStarted,
+    LevelUnloadingStarted,
+    NextLevelLoadRequested,
+    LevelTextUpdateRequested,
+    DestinationBlocksRequested,
+    InitializeBallMovement,
+    BallMovementCompleted,
+    CheckLevelFinished,
+    InitializeBall,
+    BlockGenerationDelayRequested,
+    BlockGenerated,
+    BlockPainted,
+    ClosestBlockRequested,
+    BallMovementStarted,
+    CheckBlocksDestroyed,
+    GetBlockFromPool,
+    ReturnBlockToPool,
+}

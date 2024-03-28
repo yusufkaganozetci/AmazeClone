@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1c26d6d69ee6244c801239b4004d0f2, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  index: 0
+  ballStartPosition: {x: -4, y: -2}
+  paintableBlockCount: 29
+  blocks:
+  - array:
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+  - array:
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - array:
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+  - array:
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+  - array:
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+  - array:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+  - array:
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+    - type: 1
+  rowCount: 7
+  columnCount: 11
